@@ -1,2 +1,1 @@
-# dotfiles
-This is the Repo containing all of my configurations
+# [gnmdrive@dotfiles]: List of Configurations

@@ -1,0 +1,21 @@
+add_newline = false
+format = "$jobs$all"
+
+[fill]
+symbol = ' '
+
+[line_break]
+disabled = true
+
+[cmd_duration]
+disabled = true
+
+[jobs]
+symbol = " "
+style = "bold red"
+number_threshold = 1
+format = "[$symbol]($style)"
+
+[git_branch]
+style = 'bold yellow'
+format = '[$symbol$branch(:$remote_branch)]($style) '
